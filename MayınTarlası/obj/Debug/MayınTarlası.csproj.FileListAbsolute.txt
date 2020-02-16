@@ -1,0 +1,14 @@
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojAssemblyReference.cache
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+D:\Yeni klasör\Projeler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojAssemblyReference.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+D:\PcProgramming\Projeler\DenemelerVeÖdevler\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
